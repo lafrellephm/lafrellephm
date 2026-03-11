@@ -1,4 +1,4 @@
-<p align="center" font-size="32px"> Laurentius Lafrelle </p> 
+<h1 align="center" "> Laurentius Lafrelle </h1> 
 
 <!--
 **lafrellephm/lafrellephm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
